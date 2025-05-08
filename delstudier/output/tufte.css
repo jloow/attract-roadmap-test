@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  background: #fdfdfd;
+  font-family: "Georgia", serif;
+  color: #111;
+}
+
+.tufte-page {
+  max-width: 960px;
+  padding: 4rem 6rem;
+  margin: 0 auto;
+  background: white;
+  line-height: 1.6;
+  font-size: 1.15em;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+  line-height: 1.2;
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 2.2em;
+}
+
+h2 {
+  font-size: 1.6em;
+}
+
+p {
+  margin: 1.2em 0;
+  text-align: justify;
+}
+
+.sidenote {
+  float: right;
+  clear: right;
+  margin-right: -22%;
+  width: 18%;
+  font-size: 0.9em;
+  color: #555;
+  line-height: 1.4;
+  position: relative;
+}
+
+.sidenote-number {
+  vertical-align: super;
+  font-size: 0.8em;
+}
+
+@media (max-width: 900px) {
+  .sidenote {
+    float: none;
+    margin: 1em 0;
+    width: auto;
+    color: #666;
+  }
+}

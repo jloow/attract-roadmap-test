@@ -1,0 +1,1159 @@
+## Vad bidrar till det attraktiva gruvarbetet idag?
+
+Joel Lööw
+
+### Inledning 
+
+Denna delstudie syftar till att undersöka vad som gör gruvindustrin
+attraktiv, vad de som redan jobbar för ett gruvföretag tycker om sitt
+arbete -- med andra ord, vad det är som gör att personer vill jobba i
+gruvindustrin.
+
+Egentligen vet vi redan ganska mycket om vad som gör ett arbete
+tillfredställande, stimulerande och gott -- vad som gör arbeten
+attraktiva. Vi vet till exempel att det handlar om att anställda ska ha
+en bra avvägning mellan krav och kontroll i sitt arbete, bra ersättning,
+möjlighet till inflytande och att arbetet ska vara säkert och inte bidra
+till ohälsa (Åteg et al., 2004).
+
+Samtidigt måste vi komma ihåg att gruvindustrin på flera sätt skiljer
+sig från andra industrier och att det därför är viktigt att bilda oss en
+uppfattning för vad som specifikt är viktigt för just denna industri. I
+och med att mycket är under förändring i gruvindustrin påverkar det
+också våra tidigare uppfattningar kring attraktivt gruvarbete (Lööw,
+2020). Denna utveckling kommer även påverka vilka roller som behövs i
+morgondagens gruva och hur dessa roller är sammansatta. Till exempel
+kommer fler behöva färdigheter som tidigare förknippats med
+tjänstemannaroller, och dessa färdigheter kommer att behövas hos
+kollektivanställda (Lund et al., 2024).
+
+Med andra ord räcker det inte att endast fokusera på traditionella
+perspektiv kring attraktivt arbete. I stället menar vi att man måste
+tillämpa ett sociotekniskt systemtänkande. I utformningen av attraktiva
+arbetsplatser är det därför viktigt att använda ett människocentriskt
+perspektiv, i bred bemärkelse: vi måste identifiera och ta hänsyn till
+behoven hos alla som påverkas av arbetet, inte bara de som direkt utför
+det. Detta kräver analyser av och förståelse för såväl den interna
+organisationen som det omgivande samhället.
+
+### Genomförande 
+
+Studien har genomförts i två delar. För det första har vi gått igenom
+tidigare forskning och studier kring attraktivt gruvarbete. Detta har
+även inkluderat internationella spaningar. För det andra har vi
+genomfört en serie fokusgruppintervjuer med anställda hos ett
+gruvföretag för att bättre förstå vad som *lockar* med ett arbete i
+gruvindustrin. Här har vi använt en metod kallad *appreciative inquiry*
+(Bushe, 2011). Metoden går ut på att anställda, i detta fall, svarar på
+frågor om vad de gillar och uppskattar i sitt arbete. Detta skiljer sig
+från traditionella tillvägagångssätt där fokus brukar ligga på problem
+och sådant som inte fungerar.
+
+I fokusgruppintervjuerna har vi därav fokuserat på sådant som är bra med
+gruvindustrin, i stället för det som inte fungerar. Tanken är att detta
+ska ge en tydligare bild av det som behöver göras för att, så att säga,
+få fram mer av det goda. Totalt 25 personer deltog i 4
+fokusgruppintervjuer. Av dessa var 17 män och 8 kvinnor. Tre av
+deltagarna var kollektivanställda, resten tjänstemän. En av
+fokusgrupperna bestod endast av personer som flyttat till Sverige för
+att jobba på företaget i fråga (totalt 6 personer). I fokusgrupper
+ställde vi följande frågor som deltagarna diskuterade och besvarade: Vad
+var det som fick dig att välja ett arbete/en karriär inom
+gruvindustrin?; Vilka delar uppskattar du mest?; När har du känt dig som
+mest välkommen i gruvindustrin?; Hur skulle ditt ideala arbete se ut?;
+Hur skulle arbetet kunna utformas för att uppnå fler av de saker som du
+uppskattar i ditt arbete?
+
+### Resultat
+
+Deltagarna gav flera olika anledningar till att man **sökt sig till
+gruvindustrin**. Vissa kom från en "gruvfamilj", alltså en familj där
+någon eller flera arbetat i gruvan, ibland i generationer. Andra uppgav
+att det varit yrket eller området -- till exempel geologi -- som främst
+varit lockande och att gruvindustrin erbjuder jobb inom detta. För vissa
+är det den goda lönen som lockar. Skiftgången och möjligheterna till
+ledighet är viktig för vissa, ofta kopplat till fritidsintressen.
+Samtidigt är skiftgången för andra något som gör arbete oattraktivt.
+Slutligen beskriver vissa att det varit slumpen som lett dem till
+gruvindustrin.
+
+Liknande budskap återfinns i svaren på frågan kring vad deltagarna
+**uppskattar mest med ett arbete inom gruvindustrin**. Till exempel
+nämns både lön och skiftgången. Återigen är det inte bara positiva
+utsagor -- bland annat upplever vissa att lönen är dålig i förhållande
+till andra företag (entreprenörer) eller roller (tjänstemän jämfört med
+operatörer). Många lyfte att de uppskattar att vara med att driva en
+teknisk utveckling. I relation till detta lyftes också möjligheten att
+alltid kunna lära sig något nytt inom industrin. Detta har också att
+göra med att det finns en variation i arbetet och att man aldrig riktigt
+blir färdig. Även här finns dock också negativa dimensioner: vissa
+upplevde att de fick landa i något och sätta punkt -- det finns *alltid*
+något annat att göra.
+
+Frågan kring när deltagarna **känt sig som mest välkomna i
+gruvindustrin** resulterade i ganska begränsade diskussioner.
+Kollegornas bidrag till att känna sig välkommen nämndes av flera
+deltagare. "Från första dan" nämnde en deltagare att de känt sig som
+välkomna i industrin.
+
+Diskussionerna kring frågorna hur deltagarnas **ideala arbete skulle se
+ut** och hur **arbetet skulle kunna utformas** för att uppnå fler av de
+saker som deltagarna uppskattade i sitt arbete tenderade att glida in i
+varandra. Vissa pratade här om en större gemenskap inom gruvindustrin,
+där företag går ihop för att lösa problem gemensamt som industri. Vissa,
+speciellt de som var aktiva vid en av gruvorna, ville även se
+gruvföretagen ta ett större socialt ansvar, till exempel genom att bygga
+bostäder och anordna aktiviteter i samhället -- att företaget blir en
+större del av de anställdas privatliv i någon bemärkelse. Många andra
+deltagare var mer inne på vad som skulle kunna förändras inom
+gruvföretagen. Vissa nämnde att de ville se fler spännande projekt. En
+del ville se ökad flexibilitet, anpassat efter individen. Andra nämnde
+att de ville se högre grader av automation för att göra vissa arbeten
+tillgängliga för andra. Även säkerheten nämndes som en viktig
+framtidsfaktor: mycket är säkrare nu, men om något skulle hända idag
+menar man att konsekvenserna skulle bli större. Slutligen diskuterades
+även ett behov av att se över uppdelningen mellan kollektivanställda och
+tjänstemän som idag upplevs som ett hinder, bland annat vad gäller
+kompetensutveckling.
+
+Några andra punkter som inte direkt rör frågorna är också värda att
+redovisa i detta sammanhang. Diskussionerna i den fokusgrupp som bestod
+av personer som flyttat till Sverige för att arbeta för företaget hade
+en annan karaktär jämfört med diskussionerna i de andra fokusgrupperna.
+De hade en mer holistisk och övergripande fokus, som bland annat
+innefattade gruvindustrin ansvar i samhället, den sociala acceptansen
+för gruvindustrin och så vidare. Ett annat diskussionsämne som dök i upp
+i de flesta diskussioner rörde AI: många hade reservation och
+funderingar kring hur tekniken kan ta över eller i alla fall skjuta
+undan och minimera mänsklig kunskap.
+
+### Slutsatser
+
+Av fokusgruppintervjuerna att döma finns många positiva aspekter med ett
+arbete i gruvindustrin. Några framstår som förhållandevis entydiga:
+kollegorna och att jobba i spännande projekt, med ny teknik, och
+därigenom lära sig nya saker. Andra delar kan upplevas som både positivt
+och negativt beroende på person: lönen och skiftgången exempelvis. Andra
+saker kan upplevas som negativa om de inte hålls i balans: variationen
+och lärande i arbetet kan också leda till en känsla av att inget blir
+färdigt.
+
+Samtidigt finns mer att göra och fler frågor att besvara. Hur kan
+gruvföretag skapa en arbetsmiljö som balanserar kontinuerlig utveckling,
+stimulans och flexibilitet med en känsla av stabilitet samt möjligheten
+för anställda att slutföra och reflektera över resultat? Vilka
+organisationsstrukturer och nya yrkesroller kan införas för att främja
+en mer inkluderande och flexibel organisation som överbryggar
+traditionella skiljelinjer mellan olika personalgrupper? På vilka sätt
+kan gruvföretag integrera sitt samhällsengagemang i sin övergripande
+strategi för att öka arbetets attraktivitet, samtidigt som de
+respekterar anställdas privatliv?
+
+## Varför behövs lärande och kompetensutveckling?
+
+Annika Pekkari
+
+### Inledning 
+
+Syftet med denna studie är att undersöka behovet av lärande och
+kompetensutveckling för gruvarbetare samt hur lärande och
+kompetensutveckling kan stärkas för att möta framtidens krav på en
+attraktiv och hållbar gruvindustri. Två frågor guidar studien: 1) Hur
+upplever anställda inom gruvindustrin att lärande och
+kompetensutveckling sker idag och 2) hur de skulle vilja att det sker i
+framtiden.
+
+Gruvindustrin befinner sig i en tid av snabb teknisk utveckling och
+ökande hållbarhetskrav (Herbert & Hidalgo, 2021). De främsta
+förändringarna sker på grund av ökad digitalisering (Young & Rogers,
+2019), automation, robotar och fjärrstyrt arbete (Holcombe & Kemp,
+2019). Dessa förändringar kommer att leda till att arbetet för de
+anställda i gruvindustrin förändras. Den gröna omställningen och
+teknikutvecklingen innebär bland annat att medarbetarnas lärande och
+kompetensutveckling kommer att bli allt viktigare för att kunna utföra
+sitt arbete och arbeta säkert (Tariq m. fl., 2025). Gruvindustrin är
+medveten om att behovet av nya kompetenser och färdigheter kommer att
+öka (Miranda m. fl., 2023) och tidigare forskning präglas av prognoser
+om att livslångt lärande kommer att bli en förutsättning i framtiden
+(European Commission, 2019; Sima m. fl., 2020). Kompetensutveckling är
+alltjämt en utmaning inom gruvindustrin (Abenov m. fl., 2023), dels hur
+vidareutbildning ska genomföras (Miranda m. fl., 2023), dels vilka
+kompetenser som kommer att vara relevanta i framtiden. Lärande och
+kompetensutveckling är viktiga för att främja arbetsmiljö, förmågan att
+attrahera och behålla arbetskraft jämte den framtida svenska
+gruvindustrins konkurrenskraft. Både lärande och kompetensutveckling
+adresserar medarbetarnas och organisationens behov av att anpassa sig
+till tekniska och miljömässiga förändringar samtidigt som de även kan
+stärka såväl arbetstagarnas kompetenser som industrins långsiktiga
+konkurrenskraft.  
+
+### Genomförande
+
+I tre delstudier har lärande och kompetensutveckling undersökts. Den
+första delstudien baseras på sex workshopar med totalt 43 deltagare vid
+två gruvor. Syftet med workshopen var att undersöka medarbetarnas
+uppfattningar om teknikutveckling, lärande och kompetensutveckling i
+deras arbete. Deltog gjorde produktionspersonal, produktionsledare,
+tekniker och stödfunktion/stab. Delstudie två följde utvecklingen av ett
+traineeprogram för nyanställda inom underhållsavdelningen gruvan. I den
+sista delstudien deltog 25 medarbetare, fördelat på fyra
+fokusgruppsdiskussioner. Deltagarna arbetade som produktionsarbetare,
+arbetsledare, geologer och ingenjörer. Syftet med denna studie var att
+belysa deras uppfattningar om vad som gör gruvindustrin attraktiv att
+arbeta i.  
+
+### Resultat 
+
+I linje med tidigare forskning (se exempelvis: Sima m. fl., 2020; Abenov
+m. fl., 2023; Miranda m. fl., 2023) lyfts lärande och
+kompetensutveckling fram som nyckelfaktorer för att möta de utmaningar
+som gruvindustrin står inför utifrån den tekniska utvecklingen, ökande
+krav på hållbarhet och hårdnande konkurrens. Vidare tyder resultatet på
+att lärande och kompetensutveckling är centrala byggstenar för att skapa
+en arbetsmiljö som inte bara är produktiv, säker och inkluderande, utan
+som också stärker industrins förmåga att attrahera och behålla
+kvalificerad arbetskraft. 
+
+Den tekniska utvecklingen betraktas som den främsta drivkraften bakom
+det ökade behovet av lärande och kompetensutveckling. Medarbetarna
+beskriver flera och varierande effekter av teknikutvecklingen som
+onekligen medför ökade krav på kompetensutveckling för att medarbetarna
+ska kunna utföra sina arbeten. Det ökade behovet av kompetensutveckling
+gäller alla medarbetare, oavsett yrkesroll, även om resultatet indikerar
+att de som arbetar med produktionsnära arbetsuppgifter upplever att
+deras arbete förändras mer och fortare än de som huvudsakligen arbetar
+på kontor, varvid de känner större behov av att kontinuerligt lära och
+kompetensutvecklas. Vidare menar medarbetarna att teknikutvecklingen
+kommer att innebära att färre personer arbetar i produktionen, vilket i
+sin tur innebär att de som är kvar måste samverka mer, både inom och
+mellan olika arbetslag, något som kräver andra kompetenser såsom att
+samarbeta och kommunicera med varandra. De påpekar även att den tekniska
+utvecklingen går så fort att den teknik som de lär sig idag mest trolig
+är inaktuellt nästa år, vilket understryker vikten av kontinuerligt
+lärande och att ingen blir fullärd. Den nya tekniken har även medfört
+att gränserna mellan "kollektivare" och "tjänstemän" suddas, vilket
+innebär hinder för lärande eftersom det inte längre är lika tydligt
+vilka kompetenser och arbetsuppgifter som ingår i de olika
+yrkeskategorierna. Detta innebär att gamla uppfattningar om
+kompetensutveckling och vidareutbildning behöver ses över eftersom
+rollerna inte är detsamma idag som de var för några år sedan.
+
+Medarbetarna understryker att kompetensutveckling är en självklar del av
+arbetet. Produktionsnärapersonal betonar vikten av att lärande och
+kompetensutveckling ska ske under ordinarie arbetstid och genom olika
+lärandemetoder. De anser att kurser kan vara mycket värdefulla, särskilt
+vid introduktion av nya maskiner eller liknande situationer. De
+tillägger att kurserna med fördel är korta, även om de blir fler till
+antalet, och att det är viktigt att få möjlighet att omsätta kunskaperna
+i praktiken innan nästa kurstillfälle. Därutöver pläderar de för vikten
+av att få tid för erfarenhetsutbyte under ordinarie arbetstid med
+kollegor inom det egna arbetslaget men även med andra arbetslag och
+arbetslag från andra gruvor. De förespråkar även införande av lärlings-
+och mentorprogram, påtalar värdet av studiebesök och vikten av olika
+former av "vardagslärande" för att kontinuerligt och aktivt arbeta med
+kompetensutveckling. 
+
+### Slutsatser 
+
+Resultatet tyder på att medarbetarna uppfattar att introduktionsprogram
+vid nyrekrytering och interna utbildningar för redan anställda kommer
+att bli allt viktigare. Samtidigt framträder en bild av att
+gruvföretaget inte tydligt kommunicerar att de prioriterar
+kompetensutveckling. Resultatet väcker även nya frågor såsom hur en
+hållbar strategi för kompetensutveckling kan utvecklas för att möta
+framtidens behov och hur kommer yrkesrollerna att omformas i takt med
+den tekniska utvecklingen? Utöver detta tyder resultatet på att det
+saknas en gemensam förståelse för vad lärande och kompetensutveckling
+innebär, vad det omfattar och hur det bör utformas. Detta är av stor
+betydelse eftersom en gemensam syn och tydliga prioriteringar kan skapa
+förutsättningar för en mer strukturerad och effektiv
+kompetensutveckling. Det stärker inte bara medarbetarens förmåga att
+hantera tekniska och organisatoriska förändringar utan kan även bidra
+till företagets långsiktiga konkurrenskraft och attraktivitet som
+arbetsgivare.
+
+## Attraktivt underhållsarbete
+
+Philip Tretten
+
+### Inledning 
+
+Syftet med denna studie är att undersöka utmaningar och strategier för
+att rekrytera, utbilda och behålla underhållsarbetare inom
+gruvindustrin. Mer specifikt undersöks hur dessa frågor manifesterar sig
+mellan olika underhållsroller och vad det i sin tur får för konsekvenser
+för utformningen av arbetssystem.
+
+En nyckel till att upprätthålla en effektiv drift är bra underhåll, och
+utan skicklig underhållspersonal är verksamheten i svårigheter.
+Gruvindustrin står inför betydande arbetskraftsutmaningar på grund av en
+åldrande arbetsstyrka, kompetensbrister och konkurrens om talanger. Att
+behålla kunniga och kompetenta arbetare inom gruvindustrin är en välkänd
+utmaning, särskilt för underhållsarbetare. Inte minst eftersom det är
+många arbetsgivare och arbetsplatser som konkurrerar om relativt få
+personer.
+
+### Genomförande
+
+För att identifiera centrala teman och frågeställningar i behov av att
+utforska genomfördes i ett första steg totalt tio intervjuer med
+teknikchefer, underhållsledare, underleverantörer,
+underhållssystemutvecklare och forskare. Resultatet användes sedan för
+att planera och genomföra workshops med olika yrkesgrupper, som
+automationstekniker, underhållstekniker, mekaniker, elektriker,
+underhållschefer, underhållsplanerare, underhållsprojektledare och
+externa underhållsleverantörer. Dessutom genomfördes en workshop med en
+grupp ingenjörer från gruvindustrin för att få deras perspektiv på
+framtiden för gruvindustrin och de mest relevanta utmaningarna idag.
+Totalt genomfördes sex workshops med 64 deltagare, samt två ytterligare
+djupintervjuer med personer från underhållsledning. Kombinationen av
+intervjuer och workshops gav en djupare förståelse för de utmaningar och
+möjligheter som underhållsarbetet står inför idag och hur det kommer att
+förändras.
+
+### Resultat
+
+Resultatet visar på rollspecifika utmaningar och konsekvenser för
+utformningen av arbetssystem. Detta går i linje med Carayons
+SEIPS-modell (Carayon & Smith, 2006), som integrerar mänskliga faktorer
+och ergonomi i systemdesign för förbättrad säkerhet och effektivitet.
+
+Resultaten från studien visar att tekniker är skickliga i sitt arbete
+och villiga att testa nya lösningar. De är bra på att lösa problem,
+stolta över sitt arbete och villiga att hjälpa företaget att lyckas. De
+är också villiga att lära sig mer och är nöjda med företaget, särskilt
+med de förbättringar som företaget gör för deras fritid. Samtidigt finns
+det en oro bland teknikerna att förlora sina jobb till ny teknik, och de
+känner att företagets ledning inte lyssnar på dem, vilket har skapat en
+vi/dem-konflikt. Detta leder till att de ofta byter position eller jobb
+för att få bättre lön.
+
+Mekaniker ser sig själva som bra på att identifiera och lösa problem och
+de tycker om utmaningar. De förstår de problem som uppstår och hur man
+ska närma sig dem, och de uppskattar det tekniska stöd som finns
+tillgängligt. Men om de inte tror på en ny teknik eller lösning, kan de
+välja att inte använda eller implementera den.
+
+Ingenjörer beskriver att de tycker om sitt arbete och ser sig som
+experter på sina områden. De bidrar till företagets tillväxt och
+utveckling och tycker om att arbeta tillsammans med sina kollegor.
+Ingenjörerna känner att de vet vilka utmaningar som kommer i framtiden
+och ser många kommande utmaningar. De vet att rekrytering och att
+behålla personer med rätt kompetenser är svårt. Framför allt säger de
+att om företaget inte fortsätter att möta framtida utmaningar, kommer
+det att bli föråldrat. De kämpar också med begränsade
+karriärutvecklingsmöjligheter, vilket understryker behovet av tydliga
+karriärvägar och kontinuerliga utbildningsprogram.
+
+Underleverantörer och teknikleverantörer säger att de kan tillhandahålla
+många av de lösningar som företag söker, men de är rädda för att köpa en
+lösning som inte uppfyller kundernas förväntningar. Företag vill inte
+vara kontrakterade till endast en lösningsleverantör, och företag har
+ofta svårigheter att implementera de köpta lösningarna.
+Underleverantörerna upplever också integrations- och säkerhetsproblem,
+vilket kräver bättre kommunikations- och engagemangsstrategier med
+företagen.
+
+Forskare ser att många företag vill uppgradera till Industri 4.0 och har
+uppdaterat sin utrustning och mjukvara för att ta det stora steget, men
+har inte resurserna att göra en komplett övergång. Kortfristiga
+vinstkrav gör det svårt för kostsamma långsiktiga investeringar som
+Industri 4.0 kräver. Ingen lösningsleverantör kan tillhandahålla en
+komplett lösning för Industri 4.0. De flesta företag befinner sig
+fortfarande i Industri 1-3. Forskare ser också att företag har
+svårigheter att överbrygga gapet mellan akademisk kunskap och praktisk
+tillämpning, vilket understryker vikten av partnerskap mellan industri
+och akademi.
+
+### Slutsatser 
+
+Viktiga resultat visar att tekniker och mekaniker möter utmaningar på
+avlägsna arbetsplatser och fysiskt krävande uppgifter, vilket kräver
+förbättrade boendeförhållanden på plats och säkerhetsutbildning.
+Ingenjörer har svårt med begränsade karriärmöjligheter, vilket belyser
+behovet av tydliga utvecklingsvägar och kontinuerliga
+utbildningsprogram. Underleverantörer upplever integrations- och
+arbetssäkerhetsproblem, vilket kräver bättre kommunikations- och
+engagemangsstrategier. Forskare stöter på svårigheter att överbrygga
+klyftan mellan akademisk kunskap och praktisk tillämpning, vilket
+betonar vikten av partnerskap mellan industri och akademi.
+
+Studien pekar på behovet av skräddarsydda strategier för varje roll,
+inklusive förbättrade utbildningsprogram, flexibla arbetsarrangemang och
+förbättrade medarbetarvärdeerbjudanden. Dessutom föreslås implementering
+av datadrivna rekryteringsprocesser, mentorsprogram och
+tvärutbildningsinitiativ för att hantera rollspecifika utmaningar. Dessa
+resultat har betydande konsekvenser för utformningen av arbetssystem
+inom gruvindustrin och betonar behovet av anpassningsbara, rollspecifika
+tillvägagångssätt för arbetskraftshantering för att förbättra
+rekryteringsframgång och medarbetarretention över alla underhållsroller.
+
+## Vad händer med arbetet när tekniken blir autonom?
+
+Erik Lund
+
+### Inledning
+
+Denna studie syftar till att undersöka effekterna av införandet av ett
+system för autonoma (självkörande) truckar -- Autonomous Haulage System
+(AHS) -- i gruvindustrin. AHS medförde införandet av nya arbetsroller
+och en gradvis minskning av vissa tidigare roller.
+
+Autonom teknik kan förändra arbete på flera sätt. Bainbridge (1983)
+argumenterade i sin banbrytande artikel att autonom teknik omvandlar
+arbete, uppgifter, roller och ansvar. Människor spelar en viktig roll i
+autonoma system genom att övervaka, justera, underhålla och förbättra
+tekniken. Samtidigt finns en risk att arbetstagare marginaliseras i
+vissa former av automation, vilket kan leda till att arbetet utarmas och
+att operatörer reduceras till en reaktiv roll i relation till tekniken.
+
+Autonom teknik misslyckas ibland med att leverera de förväntade
+fördelarna -- oftast ökad effektivitet och säkerhet -- eftersom
+människan inte ersätts fullt ut av systemet (Lynas & Horberry, 2011). I
+stället sker en omvandling av arbetet där nya uppgifter introduceras. Om
+denna omvandling inte hanteras väl kan det få negativa konsekvenser för
+arbetssystemet, såsom förlust av situationsmedvetenhet, tristess,
+avkvalificering eller en ökad benägenhet att ta risker.
+
+### Genomförande
+
+En fallstudie genomfördes i samband med införandet av AHS systemet i en
+gruva i Norrbotten. Datainsamlingen bestod av intervjuer, observationer
+och dokumentanalys. Fallstudien klassificeras som en utforskande
+fallstudie (Yin, 2018), med syftet att generera beskrivande utsagor om
+ett fenomen i dess naturliga kontext. Totalt genomfördes tjugofyra
+semistrukturerade intervjuer. En intervjuguide användes men följdes inte
+strikt, vilket möjliggjorde följdfrågor baserade på informanternas svar.
+Utöver detta genomfördes flera observationer, exempelvis i den autonoma
+zonen, vid lastning och tippning, i kontrollrummet samt vid
+simulatorträning i utbildningsmiljö. Datainsamlingen inkluderade även
+dokument såsom arbetsbeskrivningar, nyhetsartiklar och
+projektpresentationer.
+
+Resultaten analyserades med hjälp av Balans Teori (Smith & Sainfort,
+1989; Carayon & Smith, 2000), som betraktar arbete ur ett
+systemperspektiv. Enligt teorin består arbetssystemet av fem ömsesidigt
+relaterade element: den fysiska miljön, arbetsuppgifterna (inklusive
+arbetskrav och innehåll), tekniken, organisationen (såsom struktur,
+kultur, kommunikation och ledarskap) samt individen (inklusive faktorer
+som personlighet, hälsa, färdigheter, motivation och behov). Teorin
+betonar två typer av balans: dels systembalans, vilket innebär att alla
+element behöver beaktas för att undvika att ett ensidigt fokus -- till
+exempel på teknikutveckling -- skapar obalanser i arbetssystemet; dels
+kompensatorisk balans, där styrkor inom ett område kan väga upp för
+begränsningar inom ett annat. Analysen syftar till att förstå hur dessa
+element påverkas av införandet av AHS och hur balansen mellan dem
+förändras.
+
+### Resultat
+
+Resultaten är organiserade enligt Balans Teorins fem element och jämförs
+med det tidigare, manuella arbetssystemet.
+
+**Den fysiska miljön.** Informanterna beskriver en förbättrad fysisk
+arbetsmiljö efter införandet av AHS. Förare undviker monotona och
+riskfyllda situationer vid pauser och skiftbyten. De slipper också långa
+arbetspass i skumpiga lastbilar, vilket minskar risken för belastnings-
+och vibrationsskador.
+
+**Arbetsuppgifter.** Med AHS blir arbetsuppgifterna mer varierade. En
+operatör i den autonoma zonen hanterar exempelvis produktionsavvikelser,
+bistår obehörig personal, samt ansvarar för säkerheten och den fysiska
+miljön runt de autonoma truckarna. Detta beskrivs som både stimulerande
+och positivt.
+
+**Tekniken.** AHS är mindre flexibelt än det manuella systemet eftersom
+det bygger på förinspelade rutter och kräver mer fysiskt utrymme (t.ex.
+bredare vägar, större lastplatser). Detta kan skapa utmaningar när
+gruvbrytningen förändras. Samtidigt möjliggör AHS större precision i
+produktionsprocessen, särskilt vid lastning, där operatören har kontroll
+över var, när och hur lastning sker. Systemet möjliggör även ett delat
+medvetande -- alla operatörer och maskiner ser varandra i systemet,
+vilket ökar säkerheten och produktiviteten.
+
+**Organisationen.** AHS medför ett ökat behov av långsiktig planering
+och utbildning. Samtidigt minskar de naturliga sociala interaktionerna
+mellan kollegor och mellan arbetstagare och ledning, vilket kan öka
+risken för ensamarbete.
+
+**Individen.** Operatörer med bakgrund som truckförare beskriver sitt
+nya arbete som mer spännande och utmanande. De uppfattar sig själva som
+problemlösare snarare än förare. Flera upplever att AHS är mer pålitligt
+än mänskliga kollegor, vilket bidrar till en känsla av ökad säkerhet.
+Samtidigt uppges ett minskat socialt utbyte, vilket kan öka känslan av
+isolering.
+
+### Slutsatser
+
+Studien visar att AHS gör arbetet mer varierat och mindre monotont.
+Operatörerna får ett större ansvar och utför mer komplexa uppgifter,
+vilket upplevs som stimulerande. Rollen förändras från att enbart styra
+ett fordon till att säkerställa att ett större system fungerar effektivt
+genom koordinering och problemlösning.
+
+Införandet av AHS innebär också mer reglerat arbete med detaljerade
+specifikationer, vilket ökar säkerheten men kan begränsa
+handlingsutrymmet. Minskningen av personal i gruvdriften leder till
+färre spontana sociala interaktioner, vilket kan öka risken för
+isolering. Det finns därmed ett behov av att aktivt stödja sociala
+kontakter och förebygga effekter av ensamarbete.
+
+Resultaten i denna studie bekräftar Bainbridges (1983) tidiga
+observationer om att autonom teknik inte ersätter arbete utan i stället
+omformar det. I linje med Lynas och Horberrys (2011) resonemang visar
+resultaten att människan fortsatt spelar en avgörande roll i det
+autonoma systemet i gruvindustrin, även om arbetsuppgifterna förändras.
+Studien visar att införandet av autonom teknik kräver noggranna
+överväganden av balansen mellan tekniska, organisatoriska och mänskliga
+faktorer, inte minst för att undvika oönskade bieffekter som social
+isolering eller minskad handlingsfrihet. Mot bakgrund av detta väcks
+också nya frågor som bör utforskas i framtida forskning: Hur påverkar
+autonom teknik den långsiktiga yrkesidentiteten hos arbetstagare i
+traditionellt operativa yrken? Vilka organisatoriska strategier kan
+motverka den sociala isolering som följer av reducerade interaktioner i
+autonoma arbetsmiljöer? Och vilka faktorer avgör om arbetet med den
+autonoma tekniken upplevs som positivt eller negativt?
+
+## Hur påverkar organisationskulturer inkludering och jämställdhet? 
+
+ Wilhelm Tosser Franklin
+
+### Inledning
+
+Denna delstudie syftar till att undersöka hur anställda inom gruvföretag
+erfar inkludering, jämställdhet och organisationskulturer inom
+gruvindustrin.
+
+I den svenska gruvindustrin utgör kvinnor idag 23 procent av
+arbetskraften (2020), och insatser för att öka jämställdheten betraktas
+som en nyckelfråga för branschens framtid (Ringblom, 2019). Nationell
+och internationell forskning betonar att den ojämna könsrepresentationen
+samt olika maskulint präglade kulturer inom gruvorganisationer utgör
+utmaningar för industrin när det gäller rekrytering, rättvis behandling
+och implementering av policys (Baruah & Biskupski-Mujanovic, 2021;
+Ringblom, 2022). Forskning visar vidare att strategier som används av
+kvinnor och andra marginaliserade grupper ofta bidrar till att
+reproducera den manliga dominansen inom industrin. Detta trots att
+kvinnors upplevda \"annorlundahet\" ibland lyfts fram som en positiv
+kraft för arbetsplatskulturen (Eveline & Booth, 2002; Mayes & Pini,
+2014; Laplonge, 2017; Norberg & Fältholm, 2017). Dock har forskningen i
+stor utsträckning fokuserat på exkluderande maskulina kulturer bland
+kollektivanställda samt kvinnors hantering av underordning, snarare än
+på strategier för motstånd eller förändring. Därmed har kvinnor sällan
+tillskrivits agens i relation till gruvdrift, och de manliga
+gruvanställda som ofta förväntas upprätthålla dessa strukturer har
+förblivit relativt understuderade (Heimann et al., 2023). Mot denna
+bakgrund är det av vikt att närmare undersöka erfarenheter från både
+kvinnor och män, på olika organisationsnivåer, för att förstå hur olika
+professioner och organisatoriska sammanhang förhåller sig till,
+reproducerar eller utmanar rådande organisationskulturer i
+gruvindustrin.
+
+### Genomförande
+
+För att möjliggöra en detaljrik och nyanserad analys genomfördes 23
+djupintervjuer med kvinnor och män verksamma i samma gruva men på olika
+nivåer och med varierande arbetsuppgifter. Av dessa är 16 anställda av
+gruvbolaget (11 kvinnor, 5 män) och 7 av underleverantörer (4 kvinnor, 3
+män). Deltagarna återfinns i roller såsom chaufför, lastare,
+arbetsledare, produktionschef, KMA, processingenjör, planerare, HR,
+driftoperatör, underhållstekniker, facklig företrädare, affärsutvecklare
+och avdelningschef. Deras anställningstid varierar mellan ett och 15 år.
+Ingen distinktion gjordes mellan beställare och underleverantör, då
+syftet var att belysa inkludering, exkludering och organisationskultur
+inom arbetsplatsens olika funktioner. Analysen har inspirerats av
+tematisk analys och genomförts med ett intersektionellt perspektiv på
+kön, etnicitet och sexualitet. Etiska överväganden, såsom informerat
+samtycke, konfidentialitet och reflexivitet kring forskarrollen, har
+beaktats.
+
+### Resultat
+
+Resultatet från studien visar att det finns mekanismer för såväl
+inkludering som exkludering inom arbetsorganisationerna.
+
+Bland delar av den kollektivanställda personalen betonas en stark
+gemenskap bland kollegor och inom arbetslag, där en vilja att stötta,
+skydda och ta hand om varandra lyfts fram. Här betonas bland annat den
+gemensamma utsattheten för risker som en enande erfarenhet som stärker
+sammanhållningen bland de anställda. För att inte riskera att utsätta
+sig själv eller kollegor för fara är det viktigt att kunna genomföra
+arbetet på ett, för kollegorna, adekvat sätt. Här kan vi se att olika
+sätt att "visa sig duglig" fungerar som initieringsriter till
+gemenskapen, där bland annat föreställningar om kön innebär att det
+ställs olika förväntningar på kvinnor och män. Flera av de
+kollektivanställda kvinnor som deltagit i studien lyfter fram hur
+särskilt nyanställda kvinnor inom produktionen behöver visa att de kan
+"kavla upp ärmarna". Att "våga ta i och bli skitig" lyfts fram som
+viktigt, då "skitighet" fungerar som ett kvitto på väl utfört arbete;
+krav som inte ställs på nyanställda män i samma utsträckning. Andra som
+lyfts fram som särskilt utsatta bland nyanställda är unga, vikarier och
+deltidsanställda.
+
+Det är dock inte enbart att utföra arbetet på ett visst sätt som
+möjliggör inträde i gemenskaper. Bland kollektivanställda beskrivs
+organisationskulturerna som familjär, där krav ställs på de anställda
+att delta i en "hård men kärleksfull" jargon. Av såväl
+kollektivanställda som tjänstepersoner betonas även vikten av att inte
+vara för känslig. I stället premieras de som "tål ett skämt" och att med
+glimten i ögat kunna "ge svar på tal"; en kultur som av många deltagare
+betraktar som 'macho', uppburen av såväl kvinnor som män. I de fall då
+personal, oavsett om de är kollektivanställda eller tjänsteperson, gör
+aktivt motstånd mot, eller visar ovilja att delta i jargonen, utsätts de
+ofta av repressalier på olika sätt.
+
+Bland de kollektivanställda betonades ofta gemenskaper baserat på yrke,
+arbetsuppgifter eller arbetsgrupper. Detta var dock inte lika påtagligt
+bland de intervjuade tjänstepersonerna. Bland tjänstekvinnor är det i
+stället gemenskaper utifrån kön som beskrivs som viktiga för deras
+välbefinnande på arbetet. Ett återkommande tema bland tjänstepersonerna
+är erfarenheter av att de som kvinnor exkluderas av manliga gemenskaper.
+Här kan vi se att vissa deltagare tystas, ifrågasättas och förlöjligas
+utifrån föreställningar om kön, där egenskaper som att vara rättfram,
+självsäker och kunnig tolkas som primärt manliga och oförenliga med
+kvinnliga tjänstepersoner. Här betonas den gemensamma erfarenheten av
+att på olika sätt exkluderas utifrån den sociala positionen 'kvinna'; en
+enande erfarenhet som stärker sammanhållningen bland tjänstekvinnor. 
+
+I resultatet framkommer det att även att föreställningar om sexualitet
+och etnicitet kan ligga till grund för exkludering från
+arbetsorganisationernas gemenskaper. Över organisationsnivåer finns
+erfarenheter av homofobiska "skämt" samt nedsättande språkbruk gentemot
+samer, rennäring och samisk kultur. En direkt följd av detta är att
+vissa deltagare inte är öppna med sitt, eller sin partners, samiska
+ursprung på grund av rädslan av att ifrågasättas eller utsättas för
+kränkande kommentarer. Därtill betonas det i materialet att
+organisationskulturerna präglas av heteronormativa föreställningar, där
+andra sexuella läggningar än heterosexualitet varken syns eller talas om
+annat än på "skoj".
+
+### Slutsatser
+
+Viktiga slutsatser från studien är att gruvarbetsplatsens
+organisationskulturer, bland såväl kollektivanställda som
+tjänstepersoner, präglas av föreställningar om ideala kollegor, dvs. vem
+eller vilka som "passar in" i gemenskapen, vilket fungerar både
+inkluderande och exkluderande. Organisationskulturerna skapas och
+omskapas av både män och kvinnor på olika organisationsnivåer, antingen
+genom aktivt deltagande i, eller motstånd mot, normativa föreställningar
+om kön, sexualitet och etnicitet. Organisationskulturerna kan
+följaktligen inte betraktas som problem - eller lösningar - som finns
+"där", någon annanstans. I stället behöver vi förstå kulturerna som
+processer, någonting som överskrider gruvindustrins olika
+organisationsnivåer och ständigt skapas och omskapas i
+gruvorganisationernas dagliga arbeten.
+
+Vidare visar studien på behovet av fler kvinnliga kollegor till såväl
+kvinnor i kollektivanställning som kvinnor i tjänstemannaroll. Eftersom
+också kvinnor deltar i exkluderande kulturer så innebär inte fler
+kvinnor nödvändigtvis en förändring i organisationskultur, däremot ser
+vi behovet av att samla kvinnor i samma arbetslag, eller på samma
+organisatoriska avdelning, i stället för att anställa kvinnor utspridda
+på många olika organisatoriska yrkesroller. Detta ser vi inte bara som
+ett "skydd" mot exkluderande organisationskulturer, utan också som en
+viktig aspekt i arbetet med att locka fler kvinnor till gruvföretagen
+och därigenom också öka jämställdheten inom industrin.
+
+Mot bakgrund av denna studies resultat ser vi att ytterligare frågor
+behöver undersökas och besvaras. Vilka möjliga hinder för inkluderande
+organisationskulturer utgör dagens organisering av arbete inom
+gruvorganisationernas olika arbetsområden? Hur kan arbete organiseras på
+sätt som främjar inkluderande organisationskulturer bland
+kollektivanställda och tjänstepersoner? Vilka nya
+organisationsstrukturer kan införas för att främja inkluderande
+organisationskulturer som spänner över gruvföretagens olika
+arbetsgrupper, arbetsområden och organisationsnivåer?
+
+## Hur inverkar kön och organisation på geologers arbete i gruvan? 
+
+Samuel Heimann, doktorand i arbetsvetenskap
+
+### Inledning
+
+Gruvindustrin har under lång tid varit föremål för forskning om
+betydelsen av kön/genus för arbetets genomförande och organisering (se
+t.ex. Abrahamsson et al. 2023; Ringblom & Johansson 2020). I forskningen
+har särskilt gruvarbetarnas gemenskap och arbete fokuserats, vilket
+resulterat i insikter om hur maskulinitetskonstruktioner påverkar, och
+genomsyrar, arbetsplatskultur och förståelsen av arbete (se t.ex.
+Abrahamsson & Johansson 2020, Ringblom 2019). Forskningen har därtill
+formerats i ett eget forskningsfält -- gender in mining -- som i hög
+grad påvisar likartade maskulinitetskonstruktioner inom den
+internationella "gruvkontext" som utgörs av industrialiserade
+gruvorganisationer i länder som Kanada, Sverige, Sydafrika, Australien
+och Chile (Heimann et al. 2023). Ett gemensamt drag i denna forskning är
+fokuset på just gruvarbetare som studerad yrkesroll, samt kvinnors
+underordning och minoritetsposition i yrkesgruppen. Forskningens något
+ensidiga fokus ger därmed bilden av gruvan som just manlig, "macho" och
+präglad av arbete i industriell produktion (smutsigt, tungt och farligt
+etc).
+
+Syftet med denna studie är att nyansera bilden genom att studera en
+kvalificerad yrkesgrupp som har en nyckelkompetens i gruvindustrins
+produktion: geologer. Genom frågor om, och observationer av, geologers
+arbete, arbetsvardag och relationer i och till gruvorganisationen, vill
+studien förstå hur kön och genus spelar roll i yrkesgruppens arbete. 
+
+### Genomförande
+
+Studien genomfördes i anknytning till en av gruvorna inom projektet
+Attract. Sammantaget genomfördes 12 intervjuer med 11 geologer (4
+kvinnor och 7 män), varav 10 var anställda vid samma gruvbolag, kallat
+Gruvbolaget. De 10 intervjuade geologerna vid Gruvbolaget var
+organiserade i olika arbetsgrupper med skilda arbetsuppgifter och
+hemvist i organisationen.  Gemensamt var att de 10 var knutna till samma
+gruva, kallad Gruvan, och gruvområde, delade arbetsplatser (t.ex. vid
+arbete i kärnarkiv) och samarbetade inom ramen för Gruvans lokala
+geologi. Då en av geologerna övergick i ny tjänst vid Gruvan genomfördes
+en kompletterande intervju med fokus på arbetet i den nya rollen. För
+att få en något vidare kontext och referenspunkt till geologiskt arbete
+i konsultbranschen genomfördes även en intervju med en geolog (kvinna)
+anställd vid ett konsultbolag inriktat mot gruvverksamhet. I analys och
+resultat speglas de olika geologiska rollerna utifrån en (förenklad)
+gruppering av; Ovanjordsgeologer (6 stycken); Underjordsgeologer (5
+stycken); samt Konsulten (1 stycken). Intervjuer och observationer
+genomfördes mellan januari 2023 och januari 2024. Tre intervjuer
+genomfördes digitalt och resterande på intervjudeltagarnas arbetsplats
+(mötesrum/kontor). Studien inkluderade även en observationsstudie av
+geologers arbete i fält (två dagar), i gruvan (ett arbetspass) samt i
+kärnarkivet (två dagar).  
+
+### Resultat 
+
+Studiens övergripande resultat kan sammanfattas i två delar. Den första
+delen rör hur genus görs inom gruppen av geologer, och den andra delen
+behandlar hur gruvans organisation möjliggör (och begränsar) hur kön
+görs.
+
+I den första delen blir det tydligt att geologer har en
+professionsidentitet som formas kring ett starkt intresse för geologi
+och naturvetenskapligt arbete. Identiteten utgör en grund för gemenskap
+mellan geologerna och uttrycks i "passion för berget", värdet av
+fältarbete (ovan och under jord), systematiskt och gemensamt arbetssätt
+och argumenterande tolkning och prövning av slutsatser. Görandet av kön
+blir i detta sammanhang relaterat till över- och underordning av olika
+sorters geologiskt arbete där "grad av frihet" i arbetet är det som
+främst betonas och lyfts fram som en viktig skillnad av
+ovanjordsgeologerna. I deras förståelse är underjordsgeologerna i högre
+grad bundna till produktionen, har en kortare tidshorisont i arbetet och
+i viss mån även en mer standardiserad arbetsprocess. Underjordsarbetet
+kan i dessa termer förstås som feminiserat, dvs domesticerat och
+kontrollerat, medan överjordsarbetets bredare tidshorisonter möjliggör
+större flexibilitet och "frihet" att planera och genomföra det egna
+arbetet. Denna förståelse måste dock nyanseras med det höga värde som
+tillskrivs underjordsgeologerna och den "närhet" till geologin som
+präglar yrkespositionen. Ovanjordsgeologerna betonar att det är
+underjordsgeologerna som ser "hur det faktiskt ser ut" och som ger den
+data som är nödvändig för att bygga de mer abstrakta modellerna av
+geologin. Likaledes uttrycker Ovanjordsgeologerna betydelsen av att
+själva ha arbetat under jord, samt behovet av att fortsatt besöka
+geologin under jord, för att styrka sin egen förståelse och s.a.s
+återanknyta till berget. Underjordsgeologerna beskriver för egen del hur
+underjordsarbetet villkoras av produktionen, och hur arbetet ständigt
+måste anpassas och vägas mot produktionens intressen. Därtill ses det
+omfattande administrativa arbetet som begränsande med mycket
+"dubbelarbete" och tidskrävande överföring av uppgifter från block och
+penna till datasystem. En pågående digitalisering av arbetsprocessen ses
+därmed som positiv då den förväntas medföra mer arbetstid för andra, mer
+specialiserade, arbetsuppgifter. Vidare lyfter underjordsgeologerna
+värdet av att arbeta under jord i termer av "äventyr" och "skattjakt",
+samt det unika i att dagligen få betrakta "ny" geologi i takt med att
+gruvan utökas. Underjordsgeologernas förståelse, och värdering, av sitt
+arbete kan på detta sätt förstås som en "motberättelse" till den ev.
+nedvärdering som deras "ofrihet" i relation till produktionen utgör, en
+motberättelse som stärks av deras djupa kunskap om, och närhet till,
+gruvans geologi. 
+
+Det andra, och kanske primära resultatet, av studien är hur gruvans
+organisation möjliggör (och begränsar) hur kön görs. Geologer är en
+eftertraktad och, i viss mån, priviligierad yrkesgrupp i denna gruva.
+Även om de har möjlighet att få högre lön hos andra arbetsgivare, t.ex.
+inom konsultbranschen, innebär arbetet i Gruvbolaget flera förmåner. Den
+primära förmånen är möjligheten att skapa balans mellan arbetsliv och
+familjeåtaganden, dvs att minimera tid från familjen (arbetsresor,
+långväga pendling, fältexkursioner) samtidigt som ett geologiskt
+intressant och utvecklande arbete är möjligt. Denna balans möjliggörs
+genom geologins komplexitet (och därmed attraktivitet för geologerna),
+gruvans plats (nära flera större samhällen) och arbetets organisation. I
+den senare delen är det förläggning av arbetet till veckodagar, 8
+timmars arbetsdag mellan ca 07:00 -- 17:00 och möjligheten till flexibel
+arbetstid som skapar ett viktigt ramverk. För geologerna, vilka alla
+utom en har barn i förskole-skolåldern, är detta ramverk en viktig del i
+varför de sökt sig till just denna arbetsplats och arbetsgivaren
+Gruvbolaget. Här bör nämnas att andra jämförbara gruvor tillämpar
+skiftarbete för geologer (samt att gruvarbetarna vid Gruvbolaget arbetar
+i skift) och att dessa arbetsplatser, inkl. konsultarbetets ständiga
+resor, aktivt valts bort av flera av de intervjuade. I intervjuerna är
+det framförallt de geologer som är män som betonat vikten av att kunna
+balansera familj och arbete, något som kan tala för att de män som
+eftersträvar jämställdhet i det reproduktiva arbetet också aktivt söker
+sig till arbetsplatser som erbjuder den möjligheten. Geologerna betonar
+även värdet av hur Gruvbolaget organiserar det geologiska arbetet. Här
+är det dels den individuella karriärutvecklingen som lyfts fram, där en
+befordringsstege möjliggör att stiga i graderna (t.ex. från junior
+geolog till senior geolog) och ges högre lön, utan att nödvändigtvis
+byta tjänst. En Underjordsgeolog kan därmed, exempelvis, få titeln
+"Expert" och erhålla en högre befattning och lön, än en senior geolog
+ovan jord. Möjligheten till karriärutveckling, tillsammans med stora
+möjligheter att byta tjänster (ovan/under jord) inom Gruvbolaget, kan
+minska risken för intern tävlan och reproduktion av rigida, oftast
+manliga, statushierarkier. Den andra delen där arbetets organisering
+tycks inverka på, och motverka, könade strukturer är standardisering och
+gemensamma rutiner för vissa arbetsuppgifter, framförallt vid kartering
+under jord. Vid sidan av att effektivisera och kvalitetssäkra insamling
+av geologisk data, tycks det standardiserade arbetssättet medföra ökad
+transparens i bedömning av medarbetares prestation samt öka
+medarbetarnas förutsättningar att planera och utföra sitt arbete på ett
+effektivt sätt, något som särskilt betonas av de geologer som är
+kvinnor.  
+
+### Slutsatser 
+
+Givet den jämställdhetsproblematik som präglar både gruvindustrin och
+geologers generella arbetsvillkor (se t.ex. Heimann & Johansson 2024;
+Heimann et al. 2023) är resultatet från den studerade arbetsplatsen
+unikt. Dels utgör Gruvan i detta fall ett exempel på en arbetsplats dit
+geologer söker sig för att uppnå ett jämställdhetsideal, dvs att hitta
+balans mellan familj- och arbetsliv. I denna del förefaller
+"kontorsarbetstid", möjligheten till flex samt minimerad restid vara
+avgörande. Dels förefaller villkoren för det geologiska arbetet gynna en
+jämställd arbetsmiljö där gemensamma arbetssätt, samarbete och
+individuell utveckling premieras. I den senare delen ska även beaktas
+att gruppen geologer är relativt homogen sett till ålder och
+familjebildning (30-45 år med barn) och att en jämställd "kultur" i hur
+arbetet utförs och planeras möjligen kan tillskrivas arbetsgruppen i sig
+(gemensamma normer och förutsättningar) och de ramar som arbetsgivaren
+ger (t.ex. förläggning av arbetstid), snarare än att tillskrivas
+arbetsplatsen i stort eller eventuella jämställdhetsmål från
+arbetsgivaren.   
+
+Frågor för fortsatt forskning: Hur inverkar arbetets organisering (t.ex.
+avseende arbetstid) på könskonstruktioner i gruvans professioner? Hur
+samverkar gruvans organisation och professionernas yrkesroller i att
+forma könade professionsidentiteter? Hur inverkar automation och
+teknikutveckling på professionernas könade hierarkier?
+
+## Säkerhet och genus - hur hänger det ihop?  
+
+Kristina Johansson och Magnus Nygren
+
+### Inledning
+
+Syftet med denna studie är att öka den teoretiska och praktiska
+förståelsen för relationen mellan säkerhet och genus. Detta görs med
+hjälp av intervjuer där anställda vid ett gruvbolag beskriver sin syn på
+företagets säkerhetsutvecklingsprogram, som förespråkar principen
+\"säkerheten först\".
+
+Att genus och jämställdhet spelar roll för risk och säkerhet på
+arbetsplatsen har betonats av forskningen under de senaste decennierna.
+Inte minst eftersom män dominerar inom högriskyrken samt i statistiken
+över arbetsolyckor och dödsolyckor i arbetet (Arbetsmiljöverket 2017:4).
+Stergiou-Kita et al. (2015) fann i sin granskning av internationell
+forskning att genus verkar hänga ihop med mäns hälsa och säkerhet genom
+normer och värderingar som: 1) premierar hjältemod, fysisk styrka och
+stoicism, 2) accepterar och normaliserar risker, 3) trivialiserar
+arbetsrelaterade skador och smärta, samt 4) innebär motstånd mot
+auktoriteter och att följa arbetsmiljö- och säkerhetsföreskrifter. Medan
+dessa fyra teman riktar fokus mot mäns beteenden, lyfter forskningen
+också en femte aspekt -- hur kulturen mellan män i sin tur hänger ihop
+med 5) en organisationslogik där produktivitet och lönsamhet värderas
+högre än arbetsmiljö och säkerhet. Denna, och ofta förbisedda, aspekt är
+viktig eftersom den påminner om betydelsen av det större sammanhanget
+och de normer och värderingar som dominerar där. Snarare än att enbart
+handla om mäns individuella "manlighetsprojekt" behöver frågan om
+säkerhet, genus och jämställdhet alltså förstås som en fråga om
+organisationens normer i stort.
+
+En annan invändning, som lyfts i tidigare forskning om svensk
+gruvindustri, är att mäns förhållande till risk och säkerhet är mer
+varierad och nyanserad. I en studie om genus och manlighet bland
+gruvarbetare visar Andersson (2012) att många av de intervjuade männen
+visserligen såg risktagande som en central del av jobbet -- att arbeta i
+gruvan under jord innebar att ta risker. Även om detta inte alltid
+uppskattades, gav det dem bekräftelse -- både som "riktiga män" och
+"riktiga gruvarbetare". Samtidigt kunde Andersson också, parallellt med
+en traditionell manlighet, urskilja uttryck för en mer reflekterande
+manlighet som var kritisk mot grupptryck, onödigt risktagande och
+"machobeteende". En möjlig förklaring till att det tycktes finnas
+utrymme för andra sätt att vara man på arbetsplatsen var, enligt
+forskaren, ett ökat fokus på säkerhet och jämställdhet. Att ett ökat
+fokus på säkerhet -- liksom förändrade manlighetsideal i stort -- skapar
+utrymme för andra, mer säkerhetsmedvetna sätt att vara man på, visar
+även andra studier, både om gruvarbete i andra länder (Abrahamsson och
+Somerville 2007) och om liknande arbeten i andra mansdominerade
+industrier, som byggbranschen .
+
+### Genomförande
+
+Studien baseras på 18 djupintervjuer med kvinnor och män på olika
+organisationsnivåer och med olika yrkesroller vid ett gruvföretag. De
+flesta av de intervjuade arbetade nära gruvdriften, medan några var
+personer med särskild kunskap om jämställdhet och säkerhet. Intervjuerna
+utgick från en frågeguide med övergripande teman som arbete,
+arbetsmiljö, kultur/jargong, jämställdhet och säkerhet. Intervjuerna
+varade ungefär en timme. De flesta genomfördes på intervjupersonernas
+arbetsplats, några skedde digitalt. Efter medgivande från deltagarna
+spelades intervjuerna in för att sedan transkriberas ordagrant.
+
+### Resultat
+
+Resultatet visar att samtliga intervjudeltagare beskrev säkerhet som en
+prioriterad fråga på sin arbetsplats. Att säkerhet är viktigt beskrevs
+av många på liknande sätt -- som en fråga om att komma hem från
+arbetsdagen med hälsan i behåll. Återkommande var också att säkerhet
+numera uppfattas som en naturlig del av verksamheten och det dagliga
+arbetet, särskilt vad gäller användning av rätt kläder, skyddsutrustning
+och hjälpmedel. Säkerhet avgör inte bara hur arbetet ska utföras, utan
+även om det ska utföras. Om ett arbete inte är säkert, ska det inte
+genomföras förrän alla säkerhetsåtgärder är på plats. Många beskrev
+också hur säkerheten har utvecklats över tid. Flera intervjuer
+kontrasterade dagens säkra arbetsmetoder med de mer riskfyllda
+arbetssätt som användes tidigare. Tidigare kunde till exempel
+underhållsarbete utföras medan produktionen pågick, med anställda som
+klättrade på maskiner utan ordentliga ställningar. Idag ingår det i
+arbetsrutinen att stanna upp i 30 sekunder för att göra en
+säkerhetsbedömning innan arbetet påbörjas -- vilket ofta innebär att
+produktionen stoppas och rätt utrustning används.
+
+Samtidigt som säkerhet idag tycks vara den dominerande principen för hur
+arbetet utförs, framkom också i intervjuerna en delvis annan bild. I
+linje med tidigare forskning beskrevs att det fortfarande finns
+anställda som motsätter sig säkerhetsrutiner, och att det framför allt
+rör sig om äldre män som förknippas med en "machokultur". Dessa män --
+även om de inte är så många -- beskrivs som personer som tycker att det
+var bättre förr och att vissa skyddsåtgärder, som skyddsglasögon, är
+onödiga. Män som gör motstånd mot säkerhetsarbetet syns i materialet
+framför allt som en "figur" som beskrevs av andra, och då ofta som en
+kontrast för att poängtera hur säkerhetsmedvetna majoriteten är idag.
+Men det finns även intervjudeltagare som själva uttrycker kritik mot
+säkerhetsarbetet. Genom deras beskrivningar blir det tydligt att
+motståndet inte riktar sig mot vikten av säkerhet i sig. Tvärtom
+framhöll de, liksom övriga, vikten av att komma hem hel och ren efter en
+arbetsdag. Det de i stället ifrågasatte var företagets säkerhetsarbete
+-- det vill säga det specifika sätt som företaget valt att organisera
+säkerhetsfrågorna. Det var säkerhetsarbetet, inte säkerheten i sig, som
+beskrevs som \"nonsens\". Det verkliga säkerhetsarbetet ansågs ske när
+individer själva tog ansvar för sin säkerhet, genom att ständigt
+identifiera risker och agera därefter -- man är sitt eget skyddsombud.
+Ett exempel som återkom i flera intervjuer var förbudet mot att bära
+kniv med spets, som uppfattades som en symbolfråga där arbetsgivaren
+agerar \"för syns skull\". Det sågs också som ett exempel på hur
+säkerhetsrutiner kan sätta sunt förnuft och arbetstagares
+handlingsförmåga ur spel. Samtidigt beskrevs detta som ett exempel på
+hur säkerhetsarbetet kunde dra fokus från viktigare frågor, såsom
+renovering och underhåll av lokaler.
+
+Ett andra exempel på när principen \"säkerheten först\" ifrågasattes
+rörde chefernas agerande vid särskilda omständigheter -- till exempel
+vid produktionsstopp. Även om säkerheten prioriterades i vardagen,
+beskrevs situationer där säkerhetsfrågor fick stå tillbaka när chefer
+fokuserade på att snabbt få i gång produktionen. När tidspress uppstår
+på detta sätt är det också lätt att tillbud sker, vilket det gavs
+exempel på i intervjuerna. Samtidigt beskrev flera intervjupersoner
+positiva exempel på chefer som står upp för säkerheten, även när det tar
+tid och produktionen måste pausas. Deras agerande beskrevs som avgörande
+för att mottot \"säkerheten först\" verkligen ska få genomslag i
+praktiken.
+
+### Slutsatser
+
+Genom att undersöka hur anställda själva beskriver säkerhetsarbete och
+dess utveckling visar resultaten att säkerhet i dag är en grundläggande
+princip för hur arbetet organiseras och genomförs. Samtidigt framkommer
+att denna princip inte är entydig, utan förhandlas och ifrågasätts i
+olika situationer och av olika aktörer.
+
+Resultaten bekräftar tidigare forskning som pekar på att genusnormer kan
+påverka både attityder till säkerhet och hur säkerhetsarbete förstås och
+praktiseras. Det finns fortfarande spår av en machokultur där motstånd
+mot säkerhetsföreskrifter kan kopplas till manlighetsnormer som betonar
+självständighet, risktagande och misstro mot auktoriteter -- särskilt
+bland äldre män (se Stergiou-Kita m.fl. 2015. Samtidigt visar studien
+att dessa normer inte längre dominerar -- snarare utgör de ett undantag
+som andra tar avstånd från. Det antyder en möjlig förändring i vad som
+uppfattas som legitim manlighet i gruvmiljön, där säkerhetsmedvetande i
+sig kan bli ett uttryck för ansvarstagande och yrkesstolthet. I linje
+med Anderssons (2012) visar studien på ett normmedvetet avståndstagande
+från \"gamla\" ideal och en kritik mot hur säkerhetsarbete utformas och
+implementeras. Här tydliggörs en viktig nyans: motståndet riktar sig
+inte mot säkerheten i sig, utan mot säkerhetsrutiner som upplevs sakna
+förankring i det praktiska arbetet eller som nedvärderar arbetarnas
+omdöme. På så sätt visar studien att genusrelationer och föreställningar
+om kompetens, autonomi och sunt förnuft har betydelse för hur
+säkerhetsarbete tolkas och bemöts. Vidare pekar berättelserna om hur
+säkerhet ibland trängs undan vid produktionsstopp mot att det
+organisatoriska sammanhanget -- och inte enbart individers attityder --
+spelar en avgörande roll. Här blir ledarskapets agerande avgörande --
+det är när chefer prioriterar säkerhet även under press som normen får
+reellt genomslag.
+
+Sammanfattningsvis visar studien att säkerhet i gruvindustrin är nära
+sammanflätat med genus genom både kulturella normer och organisatoriska
+logiker. Genom att förstå dessa samband kan säkerhetsarbete inte bara
+bli mer effektivt, utan också bidra till förändrade genusnormer och en
+mer inkluderande arbetsmiljö. Ett genusmedvetet säkerhetsarbete kan
+därmed fungera som en hävstång för både förbättrad arbetsmiljö och ökad
+jämställdhet.
+
+## Samverkan -- som huvudutmaning och lösning? Perspektiv från entreprenörsleden
+
+Magnus Nygren och Anna Berg Jansson
+
+### Inledning
+
+Syftet med studien är att undersöka hur entreprenörer upplever samverkan
+med beställarföretag i samband med digital och organisatorisk
+omställning. Studiens teoretiska utgångspunkter är asymmetriska
+maktrelationer vid outsourcing och entreprenad (Nygren 2018).
+
+Den svenska gruvindustrin står inför ökad digitalisering och
+automatisering, något som kräver en förändring i fokus och strategi när
+det gäller rekrytering, kompetensutveckling och att säkerställa att
+organisatoriska förutsättningar är i linje med de krav som
+teknikutvecklingen ställer, och vice versa (Lund et al., 2024).
+Samtidigt karaktäriseras dagens gruvindustri i hög utsträckning av
+outsourcing och entreprenad där beställarföretag upphandlar tjänster
+från entreprenörer inom olika branscher. Detta har medfört en framväxt
+av verksamheter inom de stora gruvföretagen där flera företag är aktiva
+samtidigt eller i tidsmässig anslutning till varandra med ofta
+överlappande arbeten och processer (Nygren, 2021). Frågor rörande
+teknik- och organisationsutveckling inom gruvindustrin måste således
+förstås i ljuset av dessa sammanhang.
+
+### Genomförande
+
+I studien genomfördes fem intervjuer med chefer och
+verksamhetsutvecklare från olika entreprenörer och en fokusgrupp med
+personer i liknande roller från fyra entreprenörer, för att få en
+djupare förståelse för deras upplevelser av samverkan med
+beställarföretag. Intervjuerna och fokusgruppsdiskussionen utgick från
+fyra intervjuteman för att strukturera samtalen och säkerställa att
+relevanta områden relaterade till digital och organisatorisk omställning
+täcktes; arbetsmiljö och jämställdhet (hur påverkar arbetsmiljön kvinnor
+och män och vilka åtgärder kan vidtas för att förbättra jämställdheten
+på arbetsplatserna?), kompetensförsörjning (hur säkerställs tillgång
+till rätt kompetens för att möta framtida behov och utmaningar?),
+digitalisering (hur integreras ny teknik i företagens processer och
+vilka utmaningar och möjligheter medför detta?) och grön omställning
+(hur anpassas verksamheten till mer hållbara och miljövänliga metoder
+och vilka utmaningar och möjligheter medför detta?)
+
+### Resultat 
+
+Följande teman illustrerar områden vilka framträder som centrala i
+informanternas upplevelser av samverkan med beställare.
+
+Enligt både intervjupersonerna och fokusgruppsdeltagarna är
+implementering av **ny och oftare dyrare miljövänlig teknik** avhängigt
+att det uppmuntras av beställaren och att det kan ge dem en
+konkurrensfördel vid upphandlingar. Även om beställaren inte har något
+emot miljömässiga lösningar i sig menar informanterna att det i
+praktiken är svårt att vinna upphandlingar på detta, då det fortfarande
+är den billigaste entreprenören som får kontraktet. Detta kan leda till
+att tekniska innovationer inte eftersöks eller prioriteras av
+entreprenörer, vilket i sin tur påverkar produktivitet, arbetsmiljö och,
+i förlängningen, den gröna omställningen negativt. Detta pekar på att
+teknikutveckling sker relationellt i bemärkelsen att det är beroende av
+en vilja från båda parter (beställare och entreprenör) för att komma
+till stånd. Enligt Nygren (2018) finns det dock i regel en inneboende
+asymmetri i dessa relationer som försvårar reell samverkan i
+utvecklingsfrågor då beställaren tenderar att inta en dominant position
+i sammanhanget (cf. Rosness mfl, 2012). Denna maktposition ger
+beställare möjlighet att styra exempelvis implementeringen av tekniska
+lösningar i den gröna omställningen, något som dock kräver aktiv
+uppmuntran och prioritering vid exempelvis upphandlingsförfarande.
+Entreprenörerna upplever överlag att den gröna omställningen är kostsam
+och att beställarföretaget måste stödja och vara med och betala för
+denna omställning. En viktig aspekt är alltså maktasymmetrin där
+beställaren alltid kan rikta krav mot entreprenören, medan entreprenören
+sällan kan göra detsamma (Nygren 2018; Lööw & Nygren 2019). Denna
+obalans i maktförhållandet kan leda till frustration bland entreprenörer
+och påverka deras upplevelse av samverkan negativt.
+
+Informanterna upplever även **bristande digital samverkan i
+arbetsmiljöarbetet** som ett centralt problem då beställare och
+entreprenörer arbetar i olika rapporteringssystem. Detta medför ett
+dubbelarbete för arbetsledare hos entreprenörer då de, om det uppstår
+ett ärende, måste hantera detta både i beställarens system och i sitt
+eget system. Uppgifterna och processerna inom arbetsmiljöarbetet upplevs
+som komplicerade i sig att samordna mellan företag och försvåras alltså
+ytterligare av att företagens digitala system inte är integrerade. Detta
+skapar inte bara praktiska problem utan påverkar även den psykosociala
+arbetsmiljön bland entreprenörernas arbetsledare som kan uppleva stress
+av det merarbete som ärendehantering kan innebära. Även här nämns
+problemet med asymmetriska maktrelationer då arbetsledare tenderar att
+släppa allt annat om beställaren kräver att ett visst arbetsmiljöärende
+ska hanteras omedelbart.
+
+När det gäller kompetensförsörjning beskrivs **kompetensbrist som en
+gemensam utmaning**, dvs. hur både beställare och entreprenörer har
+svårt att rekrytera personal med rätt kompetens samt att behålla
+kompetent personal. Kompetensbristen förutspås bestå framåt och beskrivs
+också som komplex då den relaterar till mer övergripande
+(samhällsrelaterade) utmaningar som till exempel bostadsbrist, vilket
+medför påtvingad arbetspendling och mindre attraktiva boendemöjligheter.
+Sammantaget framträder en bild av hög konkurrens om tillgänglig
+kompetens, hur "alla konkurrerar om samma personal", vilket försvårar
+kompetensförsörjningen för både entreprenörer och beställare. Trots att
+kompetensförsörjning diskuteras som en gemensam utmaning beskrivs den
+drabba entreprenörer än mer påtagligt då de ofta har svårt att
+konkurrera på samma villkor som större aktörer (beställare). Vidare
+beskrivs hur **digitalisering och grön omställning medför förändrade
+och/eller nya kompetenskrav**. I relation till detta upplevs bristande
+dialog och reellt informationsutbyte om kompetenskrav mellan entreprenör
+och beställare. Uttryck för detta är upplevelser av att teknikutveckling
+i allmänhet och det "gröna" i synnerhet innebär nya kompetenskrav men
+vilka är desto mer otydligt, dvs. bristande kompetensförståelse är en
+utmaning för entreprenörer. Här upplevs entreprenörers situation
+försvåras ytterligare av att de också behöver anpassa sig efter
+(förhålla sig till) beställarens krav vid upphandlingar där grön
+omställning och tillhörande teknikutveckling inte prioriteras. Under
+intervjuerna liknas detta vid ökad risk för en slags viskningslek i form
+av otydlig kommunikation kring framtida kompetenskrav och en uppenbar
+risk för att information blir förvrängd, eller till och med går
+förlorad, i de komplicerade asymmetriska maktrelationer som utvecklas på
+gemensamma arbetsställen. För att minimera sådana risker identifierar
+informanterna det som viktigt att beställare anordnar fler tillfällen
+för dialog och informationsutbyte mellan beställare och entreprenör.
+
+I entreprenörernas upplevelser identifieras en spänning mellan "här och
+nu" (nutid) och "där och då" (framtiden) rörande kompetens och
+arbetskraft. Här och nu så har den "duktiga teknikern/yrkesarbeten" en
+tydlig plats och uppgift. Så kan även vara framöver men det finns en
+osäkerhet rörande vad som faktiskt behövs. Är utbildning och erfarenhet
+viktigt framöver eller kommer det att vara ännu viktigare att rekrytera
+formbara "talanger" som kan växa i takt med teknikutvecklingen? Det
+gäller inte att vara duktig så att säga utan att vara anpassningsbar. I
+samband med detta uttrycker informanterna en slags oro för att en del av
+nuvarande uppsättning yrkesarbetare inte har en plats i företagen
+framöver.
+
+### Slutsatser
+
+Sammanfattningsvis visar studien att entreprenörer upplever flera
+utmaningar i samverkan med beställarföretag vid digital och
+organisatorisk omställning. Tekniska hinder, sociala och organisatoriska
+problem och kompetensutmaningar, i ett sammanhang av asymmetriska
+maktrelationer med beställaren, präglar deras upplevelse av samverkan.
+För att förbättra samarbetet och effektiviteten är det avgörande att
+utveckla dialogen och ett reellt informationsutbyte mellan beställare
+och entreprenör som tar hänsyn till att det ofta föreligger en
+grundläggande asymmetri parterna emellan. Detta skulle inte bara
+underlätta teknikutveckling och grön omställning, utan även bidra till
+en bättre arbetsmiljö och samsyn i hur kompetensutmaningen kan hanteras
+bland alla inblandade parter.
+
+Frågor för fortsatt forskning:
+
+- Hur kan digitala samverkansstrategier mellan beställare och
+  entreprenörer utformas för att främja gemensamt arbetsmiljöansvar i
+  digitalt fragmenterade miljöer?
+
+- Hur uppstår och hanteras kompetensförståelse i asymmetriska relationer
+  mellan beställare och entreprenörer i samband med digitalisering och
+  grön omställning?
+
+- Vilka samverkansformer möjliggör långsiktig och hållbar
+  kompetensförsörjning i produktionsmiljöer där aktörer konkurrerar om
+  samma arbetskraft?
